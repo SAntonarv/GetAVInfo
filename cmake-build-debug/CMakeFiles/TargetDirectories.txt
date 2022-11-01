@@ -1,0 +1,3 @@
+/home/spaceraven/CLionProjects/GetAVInfo/cmake-build-debug/CMakeFiles/GetAVInfo.dir
+/home/spaceraven/CLionProjects/GetAVInfo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/spaceraven/CLionProjects/GetAVInfo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
